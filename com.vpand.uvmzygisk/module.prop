@@ -1,0 +1,6 @@
+id=com.vpand.uvmzygote
+name=UVMZygote
+version=v1.0.0
+versionCode=1
+author=GeekNeo
+description=Zygisk module for vmpstudio launch apk. This modules requires Magisk v24.0 or above.
